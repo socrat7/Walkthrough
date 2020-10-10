@@ -7,8 +7,16 @@
 	<Button 
 		text="Say Hello"
 		press=".onShowHello"
-		type="Accept"
+		type="Accept"/>
+		
+   <Input 
+		value="{/recipient/name}"
+		description="Hello {/recipient/name}"
+		valueLiveUpdate="true"
+		width="60%"/>
+		
 	
-	/>
+	
+	
 	
 </mvc:View>
