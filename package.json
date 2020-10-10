@@ -1,0 +1,12 @@
+{
+  "name": "sample1",
+  "private": true,
+  "version": "1.0.0",
+  "author": "Socrates Flores",
+  "description": "UI5 Demo App - Walkthrough Tutorial",
+  "dependencies": {
+    "@openui5/sap.m": "^1",
+    "@openui5/sap.ui.core": "^1",
+    "@openui5/themelib_sap_fiori_3": "^1"
+  }
+}
